@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "pire.h": "c",
+        "sinek.h": "c",
+        "saas": "c",
+        "ostream": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
